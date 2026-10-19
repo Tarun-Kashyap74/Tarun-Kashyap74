@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
+  <defs>
+    <linearGradient id="dashGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#101d38"/><stop offset="1" stop-color="#0a1128"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="180" rx="16" fill="url(#dashGrad)"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="48" y="48" font-size="14" font-weight="bold" fill="#76afff">BUILDER ID — DASHBOARD</text>
+    <text x="48" y="106" font-size="34" font-weight="bold" fill="#f2f5ff">5</text>
+    <text x="48" y="134" font-size="13.5" fill="#9db2d1">Repositories on GitHub</text>
+    <text x="348" y="106" font-size="34" font-weight="bold" fill="#f2f5ff">3</text>
+    <text x="348" y="134" font-size="13.5" fill="#9db2d1">Products designed &amp; built</text>
+    <text x="648" y="106" font-size="34" font-weight="bold" fill="#f2f5ff">2</text>
+    <text x="648" y="134" font-size="13.5" fill="#9db2d1">Live products on Vercel</text>
+    <text x="948" y="106" font-size="34" font-weight="bold" fill="#f2f5ff">Open</text>
+    <text x="948" y="134" font-size="13.5" fill="#9db2d1">Internships &amp; freelance</text>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="heroGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1128"/><stop offset="0.55" stop-color="#193057"/><stop offset="1" stop-color="#0e2244"/>
+    </linearGradient>
+    <clipPath id="heroClip"><rect width="1200" height="300" rx="16"/></clipPath>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#heroGrad)"/>
+  <g clip-path="url(#heroClip)">
+    <circle cx="1090" cy="36" r="110" fill="#247bff" opacity="0.25"/>
+    <circle cx="1162" cy="272" r="80" fill="#ff354f" opacity="0.16"/>
+    <circle cx="56" cy="304" r="60" fill="#247bff" opacity="0.14"/>
+  </g>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="48" y="72" font-size="15" font-weight="bold" fill="#76afff">HELLO WORLD, I AM</text>
+    <text x="48" y="134" font-size="56" font-weight="bold" fill="#f2f5ff">Tarun Kashyap</text>
+    <text x="48" y="174" font-size="21" fill="#c9d8f2">AI Product Builder · MCA (Cloud Computing) @ Parul University</text>
+    <text x="48" y="208" font-size="17" fill="#9db2d1">Building HireMate &amp; EasyLanguage — practical AI products people actually use.</text>
+    <g font-size="13.5" fill="#c9d8f2" text-anchor="middle">
+      <rect x="48" y="232" width="84" height="28" rx="14" fill="#193057"/><text x="90" y="251">Next.js</text>
+      <rect x="144" y="232" width="76" height="28" rx="14" fill="#193057"/><text x="182" y="251">Python</text>
+      <rect x="232" y="232" width="106" height="28" rx="14" fill="#193057"/><text x="285" y="251">TypeScript</text>
+      <rect x="350" y="232" width="82" height="28" rx="14" fill="#193057"/><text x="391" y="251">AI APIs</text>
+    </g>
+  </g>
+</svg>

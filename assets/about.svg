@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
+  <rect width="1200" height="180" rx="16" fill="#0d1830"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="48" y="48" font-size="14" font-weight="bold" fill="#76afff">ABOUT</text>
+    <text x="48" y="90" font-size="19" font-weight="bold" fill="#f2f5ff">AI Web Apps</text>
+    <text x="48" y="118" font-size="14.5" fill="#9db2d1">Next.js products with real users,</text>
+    <text x="48" y="142" font-size="14.5" fill="#9db2d1">real feedback, real iterations</text>
+    <text x="448" y="90" font-size="19" font-weight="bold" fill="#f2f5ff">Cloud &amp; APIs</text>
+    <text x="448" y="118" font-size="14.5" fill="#9db2d1">Gemini, Supabase &amp; REST</text>
+    <text x="448" y="142" font-size="14.5" fill="#9db2d1">integrations that ship</text>
+    <text x="848" y="90" font-size="19" font-weight="bold" fill="#f2f5ff">Freelance Builds</text>
+    <text x="848" y="118" font-size="14.5" fill="#9db2d1">Practical tools for local</text>
+    <text x="848" y="142" font-size="14.5" fill="#9db2d1">businesses &amp; students</text>
+  </g>
+</svg>
